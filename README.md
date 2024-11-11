@@ -15,7 +15,7 @@ This Python script allows you to easily update the class names in a pre-trained 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/YOLO-Model-Label-Changer.git
+   git clone https://github.com/SakibAhmedShuva/YOLO-Model-Label-Changer.git
    ```
 
 2. Navigate to the project directory:
@@ -29,7 +29,7 @@ This Python script allows you to easily update the class names in a pre-trained 
 4. Update the file path for the pre-trained YOLO model in the following line:
 
    ```python
-   model = YOLO(r"d:\OneDrive - Personal\FleetBlox\API\Git\Car-Parts-and-Damage-Detection-API\models\model_car_parts.pt")
+   model = YOLO("model_car_parts.pt")
    ```
 
 5. In the "Change Labels" section, update the `car_parts_class_mapping` dictionary with the new class names you want to use:
