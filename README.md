@@ -62,4 +62,4 @@ This project was inspired by the need to update class names in a pre-trained YOL
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
